@@ -1,0 +1,1 @@
+project being built by following someone <a href="https://github.com/hackclub/OnBoard/tree/main/projects/TOTKey">else's project</a> as posted the Onboard's home page has been temporarily discontinued because the routing became too difficult to fit in that little space (as shown as in the video) + project was way beyond my skill level.
